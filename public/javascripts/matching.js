@@ -89,7 +89,7 @@
           cards[idx].index = idx;
           images[idx].x = j*TILE_SIZE;
           images[idx].y = i*TILE_SIZE;
-          images[idx].visible = true;
+          images[idx].visible = false;
 
           cards[idx].inputEnabled = true;
           cards[idx].events.onInputDown.add(this.doClick);
@@ -114,7 +114,7 @@
           images[firstClick].destroy();
           firstClick = null; secondClick = null;
           destroyTime+=1;
-          if(destroyTime==1){
+          if(destroyTime==10){
             game.state.add('final', Final);
             game.state.start('final');
           }

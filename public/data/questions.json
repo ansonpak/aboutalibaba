@@ -1,43 +1,43 @@
   [  {
-      "text": "01 Primeira Pergunta",
-      "a" : "Teste a",
-      "b" : "Teste b",
-      "c" : "Teste c",
-      "answer": "a"
-    },
-    {
-      "text": "02 Segunda Pergunta",
-      "a" : "Teste a",
-      "b" : "Teste b",
-      "c" : "Teste c",
+      "text": "01  Who is the owner of Alibaba?",
+      "a" : "Long Yingtai",
+      "b" : "MaYun",
+      "c" : "Chang Zhongmou",
       "answer": "b"
     },
     {
-      "text": "03 Terceira Pergunta",
-      "a" : "Teste a",
-      "b" : "Teste b",
-      "c" : "Teste c",
-      "answer": "c"
-    },
-    {
-      "text": "04 Segunda Pergunta",
-      "a" : "Teste a",
-      "b" : "Teste b",
-      "c" : "Teste c",
-      "answer": "a"
-    },
-    {
-      "text": "05 Terceira Pergunta",
-      "a" : "Teste a",
-      "b" : "Teste b",
-      "c" : "Teste c",
+      "text": "02 Which one is not the industry of Alibaba?",
+      "a" : "Sina Weibo",
+      "b" : "Facebook",
+      "c" : "Taobao",
       "answer": "b"
     },
     {
-      "text": "06 Terceira Pergunta",
-      "a" : "Teste a",
-      "b" : "Teste b",
-      "c" : "Teste c",
+      "text": "03 Which option is not the internal advantage of Alibaba?",
+      "a" : "adequate capital",
+      "b" : "strong operational ability to sell",
+      "c" : "not enough funds",
       "answer": "c"
+    },
+    {
+      "text": "04 Which option is the internal disadvantage of Alibaba's company?",
+      "a" : "many fake products",
+      "b" : "Easy after-sale service",
+      "c" : "many real products",
+      "answer": "a"
+    },
+    {
+      "text": "05 Which option is not Alibaba's external advantage？",
+      "a" : "Developed network",
+      "b" : "Consumers are used to shopping online",
+      "c" : "No one knows Alibaba",
+      "answer": "c"
+    },
+    {
+      "text": "06 Which option is Alibaba's external disadvantage?",
+      "a" : "Many online shopping platform",
+      "b" : "Constumer Information is safe",
+      "c" : "few people use the Internet",
+      "answer": "a"
     }
 ]
