@@ -164,12 +164,12 @@ Question.create = function()
 
     // botao AVANCAR
     var nextButton = this.add.sprite(600, 500, 'nextButton');
-    var nextLabel = this.add.text(600, 500, 'Previous', textConfig);
+    var nextLabel = this.add.text(600, 500, 'Next', textConfig);
     nextLabel.setOrigin(0.5, 0.5);
 
     // botao VOLTAR
     var prevButton = this.add.sprite(250, 500, 'prevButton');
-    var prevLabel = this.add.text(250, 500, 'Next', textConfig);
+    var prevLabel = this.add.text(250, 500, 'Previous', textConfig);
     prevLabel.setOrigin(0.5, 0.5);
 
     // logica do botao AVANCAR
