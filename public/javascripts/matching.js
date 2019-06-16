@@ -49,7 +49,7 @@
       game.state.start('game');
     },
     doClick1: function (sprite) {
-      location.href = "index.ejs";
+      location.href = "/";
     },
     
     update: function () {
@@ -186,7 +186,7 @@
     },
     
     doClick: function (sprite) {
-      location.href = "index.ejs";
+      location.href = "/";
     },
     doClick1: function (sprite) {
       location.href = "matching.ejs";

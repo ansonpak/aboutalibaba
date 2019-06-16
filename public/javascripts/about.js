@@ -135,7 +135,7 @@ Question.create = function()
 
     // faz interacao do botao VOLTAR
     prevButton.setInteractive({useHandCursor: true}).on('pointerdown', () => {
-        location.href = "index.ejs";
+        location.href = "/";
     });
 }
 

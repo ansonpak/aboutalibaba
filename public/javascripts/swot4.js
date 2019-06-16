@@ -130,7 +130,7 @@ Question.create = function()
 
     // logica do botao AVANCAR
     nextButton.setInteractive({ useHandCursor: true }).on('pointerdown', () => {
-        location.href = "index.ejs";
+        location.href = "/";
     });
 
     // faz interacao do botao VOLTAR

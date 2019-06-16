@@ -294,7 +294,7 @@ Intro.create = function()
         this.scene.start('Question');
     });
     playButton1.setInteractive({useHandCursor: true}).on('pointerdown', () => {
-        location.href = "index.ejs";
+        location.href = "/";
         resetGameState();
     });
 }
@@ -389,7 +389,7 @@ Final.create = function()
         this.scene.start('Intro');
     });
   restartButton1.setInteractive({useHandCursor: true}).on('pointerdown', () => {
-      location.href = "index.ejs";
+      location.href = "/";
     });
 }
 
